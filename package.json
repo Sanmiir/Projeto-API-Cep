@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-hook-form": "^7.51.0",
+    "zod": "^3.22.4"
+  }
+}
